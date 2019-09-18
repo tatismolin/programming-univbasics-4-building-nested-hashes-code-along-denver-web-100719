@@ -18,8 +18,8 @@ def third_challenge
         :status => "alive"
         },
       :hero_friends => [
+        {name: "Mercutio", age: "18", attitude: "hot-headed"},
         {name: "Benvolio", age: "17", attitude: "worried"},
-        {name: "Steven", age: "30", attitude: "confused"}
       ]
    },
    :capulet => {
@@ -35,12 +35,12 @@ def third_challenge
         },
       :heroine => {
         #your key/value pairs here
-        :name => "Juliete",
+        :name => "Juliet",
         :age => "15",
         :status => "alive"
         },
       :heroine_friends => [
-        {name: "Mercutio", age: "18", attitude: "hot-headed"},
+        {name: "Steven", age: "30", attitude: "confused"}
         {name: "Nurse", age: "44", attitude: "worried"}
         ]
    }
